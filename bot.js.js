@@ -304,6 +304,4 @@ client.on('message', async msg => {
 
 })
 
-client.login('Nzc2MTgyMDc5NTI0MzA2OTg0.X6xJ5A.S7Q8MiT1o2Qafk8GcSMV9PTtEbc');
-
-//Nzc2MTgyMDc5NTI0MzA2OTg0.X6xJ5A.S7Q8MiT1o2Qafk8GcSMV9PTtEbc
+client.login('YOUR_TOKEN');
